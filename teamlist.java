@@ -6,5 +6,6 @@ public class teamlist{
     System.out.println("This is NOT Lucas");
     System.out.println("Taylor Stephen");
     System.out.println("Lucas Sacherer");
+    System.out.println("my name is quinn averill");
   }
 }
